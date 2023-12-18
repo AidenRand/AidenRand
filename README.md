@@ -1,6 +1,4 @@
 ### Sup
-- 📫 I'm currently working on my company emploura
-- 💬 emploura is a simple one stop shop to get one time jobs and connect the people
 - 🔭 My life goal is to change the world and leave it better than how I came into it
 - 🤔 I enjoy physics, Ancient history, Sci Fi, reading books, video games, and coding.
 
