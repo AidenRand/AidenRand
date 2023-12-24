@@ -1,6 +1,6 @@
 ### Howdy
 - 🔭 My life goal is to change the world and leave it better than how I came into it.
-- 🤔 I enjoy physics, Ancient history, Sci Fi, reading books, video games, and coding.
+- 🌱 I enjoy physics, Ancient history, Sci Fi, reading books, video games, and coding.
 - 📫 you can contact me at aidenrandev@gmail.com.
 
 <!--
