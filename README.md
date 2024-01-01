@@ -1,7 +1,7 @@
 ### Sup
 - 🔭 My life goal is to change the world and leave it better than how I came into it.
 - 🌱 I enjoy physics, ancient history, sci fi, reading books, and coding.
-- 📫 contact me at aidenrandev@gmail.com.
+- 📫 you can contact me at aidenrandev@gmail.com.
 
 <!--
 **AidenRand/AidenRand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
