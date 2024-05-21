@@ -1,6 +1,6 @@
 ### Sup
 - 🔭 My life goal is to change the world and leave it better than how I came into it.
-- 🌱 I enjoy physics, ancient history, sci fi, reading books, and coding
+- 🌱 I enjoy physics, ancient history, sci fi, reading books, and coding.
 - 📫 You can contact me at aidenrandev@gmail.com
 
 <!--
